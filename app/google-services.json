@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066546046795",
+    "firebase_url": "https://otpe-62ff5.firebaseio.com",
+    "project_id": "otpe-62ff5",
+    "storage_bucket": "otpe-62ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066546046795:android:05070548973d538de06ace",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066546046795-iutul9lojkklh240i9f3c9fk4uf90418.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJzFS1FXTclunAqlgZio7AF-MGsZ8-cR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066546046795-iutul9lojkklh240i9f3c9fk4uf90418.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
